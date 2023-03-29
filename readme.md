@@ -11,6 +11,7 @@ The HHL (Harrow-Hassidim-Lloyd) algorithm is a quantum algorithm that can solve 
 
 ## HHL Algorithm Description. 
 Given a matrix A and a vector b, the HHL algorithm solves the linear system of equations $Ax = b$ to find the vector $x$. 
+
 ![HHL Algo](https://qiskit.org/textbook/ch-applications/images/hhlcircuit.png)
 
 The HHL algorithm can be summarized into three main steps:
